@@ -8,7 +8,7 @@
 <h3>3. Supports all characters ranging from numeric,alphabets to special-charcters in UTF-8 encoding</h3>
 <h3>4. Fully Functional without Internet </h3>
 
-<h2>Steps to Run it</h2>
+<h2><ins>Steps to Run it</ins></h2>
 <h3>1. Download this repository to your server </h3>
 <h3>2. Open index.html or set up live-server </h3>
 <h3>3. Enjoy</h3>

@@ -14,7 +14,7 @@
 <h3>3. Enjoy </h3>
 
 
-<h2><ins>Steps to Run it in your system</ins></h2>
+<h2><ins>Steps to Run it in your server</ins></h2>
 <h3>1. Download this repository to your server </h3>
 <h3>2. Open index.html or set up live-server </h3>
 <h3>3. Enter the data to convert to QR</h3>
